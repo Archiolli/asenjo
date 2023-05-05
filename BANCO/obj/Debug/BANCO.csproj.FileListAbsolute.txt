@@ -1,0 +1,91 @@
+C:\Users\Aluno\Desktop\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\Aluno\Desktop\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\Aluno\Desktop\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.Conta1.resources
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\Aluno\Desktop\BANCO\BANCO\obj\Debug\BANCO.pdb
+E:\Logica\BANCO novo\BANCO\BANCO\bin\Debug\BANCO.exe.config
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.exe
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.pdb
+E:\Logica\BANCO novo\BANCO\BANCO\bin\Debug\BANCO.exe
+E:\Logica\BANCO novo\BANCO\BANCO\bin\Debug\BANCO.pdb
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.Conta1.resources
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+E:\Logica\BANCO novo\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+H:\Logica\BANCO\BANCO\bin\Debug\BANCO.exe.config
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.exe
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.pdb
+H:\Logica\BANCO\BANCO\bin\Debug\BANCO.exe
+H:\Logica\BANCO\BANCO\bin\Debug\BANCO.pdb
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.Conta.resources
+H:\Logica\BANCO\BANCO\obj\Debug\BANCO.Login.resources
+E:\Logica\BANCO\BANCO\bin\Debug\BANCO.exe.config
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.exe
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.pdb
+E:\Logica\BANCO\BANCO\bin\Debug\BANCO.exe
+E:\Logica\BANCO\BANCO\bin\Debug\BANCO.pdb
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.Conta.resources
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.Login.resources
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+E:\Logica\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+E:\ETEC\Logica\BANCO\BANCO\bin\Debug\BANCO.exe.config
+E:\ETEC\Logica\BANCO\BANCO\bin\Debug\BANCO.exe
+E:\ETEC\Logica\BANCO\BANCO\bin\Debug\BANCO.pdb
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.csproj.AssemblyReference.cache
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.csproj.SuggestedBindingRedirects.cache
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.Conta.resources
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.Login.resources
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.cache
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.csproj.CoreCompileInputs.cache
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.exe
+E:\ETEC\Logica\BANCO\BANCO\obj\Debug\BANCO.pdb
+D:\CAIXA-ELETRONICO\BANCO\bin\Debug\BANCO.exe.config
+D:\CAIXA-ELETRONICO\BANCO\bin\Debug\BANCO.exe
+D:\CAIXA-ELETRONICO\BANCO\bin\Debug\BANCO.pdb
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.csproj.AssemblyReference.cache
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.csproj.SuggestedBindingRedirects.cache
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.Conta.resources
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.Login.resources
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.cache
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.csproj.CoreCompileInputs.cache
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.exe
+D:\CAIXA-ELETRONICO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\bin\Debug\BANCO.exe
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\bin\Debug\BANCO.pdb
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.Conta.resources
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.Login.resources
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.exe
+C:\Users\unisanta\Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.pdb
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\bin\Debug\Login.resx
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\bin\Debug\Login.cs
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\bin\Debug\Login.Designer.cs
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\bin\Debug\BANCO.exe.config
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\bin\Debug\BANCO.exe
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\bin\Debug\BANCO.pdb
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.AssemblyReference.cache
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.SuggestedBindingRedirects.cache
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.Login.resources
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.GenerateResource.cache
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.csproj.CoreCompileInputs.cache
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.exe
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.pdb
+D:\UNISANTA\Aplic. Desktop\caixa_eletronico\BANCO\obj\Debug\BANCO.Dashboard.resources
